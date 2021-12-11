@@ -92,5 +92,4 @@ elif c. lower() == 'k':
 ```
 
 #### Flowchart
-
-![IMG 13](flowchart.png) 
+![IMG 13](screenshot/flowchart.png)
